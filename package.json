@@ -1,0 +1,23 @@
+{
+  "name": "vadimtk1-array",
+  "version": "1.0.0",
+  "description": "A collection of array manipulation utilities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vadimtk1/vadimtk1-array"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "shuffle-array": "^2.1.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vadimtk1/vadimtk1-array/issues"
+  },
+  "homepage": "https://github.com/vadimtk1/vadimtk1-array#readme"
+}
